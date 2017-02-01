@@ -1,0 +1,8 @@
+85e20f3045b4f69aa6da87533d23560e *DESCRIPTION
+7a25fdecad726082e9c41cd609f0256d *NAMESPACE
+a9212b37784a346aa7b8060c90bfd4cf *NEWS.md
+d0d8bd68ae0991c5cfb64c1ae68f9d5c *R/ShinyTester.R
+21f7d84e07e669266411379d9d2ef0e3 *inst/example/server.R
+f8c8c33f1a559e07f2e7d2b239d3838e *inst/example/ui.R
+165b1d1cc46b5bd539607dd3e3525fab *man/ShinyDummyCheck.Rd
+761940e23ff91615152281534f621ba3 *man/ShinyHierarchy.Rd
